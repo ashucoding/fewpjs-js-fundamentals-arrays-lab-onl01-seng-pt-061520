@@ -1,5 +1,5 @@
-const myPets = ["Milo", "Otis", "Garfield"]
+var kittens = ["Milo", "Otis", "Garfield"]
 
-function addName(name){
-    return myPets.append('Odie')
-};
+function destructivelyAppendKitten(name){
+    return kittens.append(name)
+}
