@@ -1,5 +1,5 @@
 const myPets = ["Milo", "Otis", "Garfield"]
 
-function addName ('Odie'){
+function addName (name){
     return myPets.append('Odie')
 };
