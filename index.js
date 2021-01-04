@@ -4,7 +4,7 @@
 //  with for each exercise.
 
 const append = ["Milo", "Otis", "Garfield"];
-append.push("Odie");
+append.unshift("Odie");
 
 const prepend = ["Milo", "Otis", "Garfield"];
 const removeLast = ["Milo", "Otis", "Garfield"];
