@@ -3,7 +3,7 @@
 //  value of `["Milo", "Otis", "Garfield"]`. These are the `array`s that we'll work
 //  with for each exercise.
 
-const append;
-const prepend;
-const removeLast;
-const removeFirst;
+const append = ["Milo", "Otis", "Garfield"];
+const prepend = ["Milo", "Otis", "Garfield"];
+const removeLast = ["Milo", "Otis", "Garfield"];
+const removeFirst = ["Milo", "Otis", "Garfield"];
